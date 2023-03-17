@@ -15,9 +15,9 @@ You can click the Preview link to take a look at your changes.
 
 <div>
 <div align="center">
-<img align="center" alt="C#" width="50px" style="padding-right:10px;" src="./src/c-sharp.svg" />
-<img align="center" alt="ASP .NET" width="50px" style="padding-right:10px;" src="./src/net.svg" />
-<img align="center" alt="Django" width="50px" style="padding-right:10px;" src="./src/django.svg" />
+<img align="center" alt="C#" width="65px" style="padding-right:10px;" src="./src/c-sharp.svg" />
+<img align="center" alt="ASP .NET" width="65px" style="padding-right:10px;" src="./src/net.svg" />
+<img align="center" alt="Django" width="65px" style="padding-right:10px;" src="./src/django.svg" />
 <!-- <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="./src/nodejs.svg" /> -->
 </div>
 
