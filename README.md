@@ -18,6 +18,7 @@ You can click the Preview link to take a look at your changes.
 <img align="center" alt="C#" width="50px" style="padding-right:10px;" src="./src/c-sharp.svg" />
 <img align="center" alt="ASP .NET" width="50px" style="padding-right:10px;" src="./src/net.svg" />
 <img align="center" alt="Django" width="50px" style="padding-right:10px;" src="./src/django.svg" />
+<!-- <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="./src/nodejs.svg" /> -->
 </div>
 
 <br />
@@ -27,37 +28,35 @@ You can click the Preview link to take a look at your changes.
 <img align="center" alt="Pytorch" width="50px" style="padding-right:10px;" src="./src/pytorch.svg" />
 <img align="center" alt="Tensorflow" width="50px" style="padding-right:10px;" src="./src/tensorflow.svg" />
 <img align="center" alt="C++" width="50px" style="padding-right:10px;" src="./src/cpp.svg" />
-<img align="center" alt="C" width="50px" style="padding-right:10px;" src="./src/c.svg" />
+<!--<img align="center" alt="C" width="50px" style="padding-right:10px;" src="./src/c.svg" />-->
 </div>
 <br />
 
 
-<!-- <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="./src/nodejs.svg" /> -->
 
-
-
-
-
-<div align="center">
-<img align="center" alt="MySQL" width="50px" style="padding-right:10px;" src="./src/mysql.svg"/>
-<img align="center" alt="MongoDB" width="50px" style="padding-right:10px;" src="./src/mongodb.svg"/>
-<!-- <img align="left" alt="Graphql" width="30px" style="padding-right:10px;" src="./src/graphql.svg"/> -->
-</div>
-<br />
 
 
 <div align="center">
 <img align="center" alt="JavaScript" width="50px" style="padding-right:10px;" src="./src/javascript.svg" />
 <img align="center" alt="TypeScript" width="50px" style="padding-right:10px;" src="./src/typescript.svg" />
 <img align="center" alt="React" width="50px" style="padding-right:10px;" src="./src/react.svg" />
+<img align="center" alt="Angular" width="50px" style="padding-right:10px;" src="./src/angular.svg" />
 <img align="center" alt="HTML" width="50px" style="padding-right:10px;" src="./src/html.svg" />
 <img align="center" alt="CSS" width="50px" style="padding-right:10px;" src="./src/css.svg" />
 <img align="center" alt="Git" width="50px" style="padding-right:10px;" src="./src/git.svg" />
 </div>
+<br />
+
+<div align="center">
+<img align="center" alt="MySQL" width="50px" style="padding-right:10px;" src="./src/mysql.svg"/>
+<img align="center" alt="Microsoft SQL Server" width="50px" style="padding-right:10px;" src="./src/microsoft-sql-server.svg"/>
+<img align="center" alt="MongoDB" width="50px" style="padding-right:10px;" src="./src/mongodb.svg"/>
+<!-- <img align="left" alt="Graphql" width="50px" style="padding-right:10px;" src="./src/graphql.svg"/> -->
+</div>
+<br />
+
 </div>
 
-
-<br />
 
 ##
 <details>
