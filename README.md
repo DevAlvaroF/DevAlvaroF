@@ -13,35 +13,52 @@ You can click the Preview link to take a look at your changes.
 
 ## 🧰 Languages and Tools
 
-
+<div style="display: flex; flex-direction: column;">
+<div>
 <img align="left" alt="C#" width="50px" style="padding-right:10px;" src="./src/c-sharp.svg" />
 <img align="left" alt="ASP .NET" width="50px" style="padding-right:10px;" src="./src/net.svg" />
 <img align="left" alt="Django" width="50px" style="padding-right:10px;" src="./src/django.svg" />
+</div>
 
 
+
+<div>
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="./src/python.svg" />
 <img align="left" alt="Pytorch" width="50px" style="padding-right:10px;" src="./src/pytorch.svg" />
 <img align="left" alt="Tensorflow" width="50px" style="padding-right:10px;" src="./src/tensorflow.svg" />
+<img align="left" alt="C++" width="50px" style="padding-right:10px;" src="./src/cpp.svg" />
+<img align="left" alt="C" width="50px" style="padding-right:10px;" src="./src/c.svg" />
+</div>
+
 
 
 <!-- <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="./src/nodejs.svg" /> -->
 
-<img align="left" alt="C++" width="50px" style="padding-right:10px;" src="./src/cpp.svg" />
-<img align="left" alt="C" width="50px" style="padding-right:10px;" src="./src/c.svg" />
 
+
+
+
+<div>
 <img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="./src/mysql.svg"/>
 <img align="left" alt="MongoDB" width="50px" style="padding-right:10px;" src="./src/mongodb.svg"/>
 <!-- <img align="left" alt="Graphql" width="30px" style="padding-right:10px;" src="./src/graphql.svg"/> -->
+</div>
 
 
+
+<div>
 <img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="./src/javascript.svg" />
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="./src/typescript.svg" />
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="./src/react.svg" />
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="./src/html.svg" />
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="./src/css.svg" />
-
-
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="./src/git.svg" />
+</div>
+
+
+
+</div>
+
 
 <br /><br /><br />
 
